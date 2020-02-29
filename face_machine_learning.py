@@ -9,7 +9,7 @@
 import os, sys
 from subprocess import call
 
-my_packages = ['opencv-contrib-python', 'pillow', 'pickle']
+my_packages = ['opencv-contrib-python', 'pillow']
 def upgrade(package_list):
     call(['pip', 'install', '--upgrade', '--user'] + package_list)
 upgrade(my_packages)
