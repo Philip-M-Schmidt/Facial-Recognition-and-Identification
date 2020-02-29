@@ -10,7 +10,7 @@ import os, sys
 import numpy as np
 from subprocess import call
 
-my_packages = ['opencv-contrib-python', 'pickle']
+my_packages = ['opencv-contrib-python']
 def upgrade(package_list):
     call(['pip', 'install', '--upgrade', '--user'] + package_list)
 upgrade(my_packages)
