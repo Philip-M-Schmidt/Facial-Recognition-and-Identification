@@ -1,6 +1,6 @@
 # Facial-Recognition-Identification
 Facial recognition and identification written in python using mainly the library OpenCV.
-You will have to download the folder of the haarcasces which are provided by OpenCV and furthermore the pictures folder that you have to fill with a couple of pictures of persons you want to be identified.
+You will have to download the folder of the haarcascades which are provided by OpenCV and furthermore the pictures folder that you have to fill with a couple of pictures of persons you want to be identified.
 
 face_recognition.py can be executed directly. It only recognizes the face of any person and draws a coloured rectangle around the face and the eyes in real time.
 
