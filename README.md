@@ -8,3 +8,6 @@ Before executing the face_identification.py script you need to run the face_mach
 A facetrainer.yml data will be created which is utilized by the final full application of the face_identifation.py script.
 
 Enjoy you own personal facial recognition and identifaction app!
+
+## Screenshots
+![](https://github.com/Philip-M-Schmidt/Facial-Recognition-and-Identification/blob/master/screenshots/2020-05-14%2020_00_05-Window.png)
